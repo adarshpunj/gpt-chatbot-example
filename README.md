@@ -1,6 +1,8 @@
-# gpt-chatbot-example
+# GPT-powered chatbot from product brochure
 
 ### Data source: [Mercedes Benz A Class Limousine Brochure](https://raw.githubusercontent.com/pythongasm/cdn/b591806117badeb7b95e85af60302aca8b07727e/The%20Mercedes-Benz%20A-Class%20Limousine.pdf)
+
+### [Tutorial](https://www.pythongasm.com/build-gpt-powered-chatbots-around-enterprise-data-with-python)
 
 https://github.com/adarshpunj/gpt-chatbot-example/assets/30762976/58d7c3e5-6e09-4460-9785-b4d5567d3482
 
