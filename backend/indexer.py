@@ -12,7 +12,7 @@ for n in range(n_pages):
     page = reader.pages[n]
     text = page.extract_text()
 
-    with open(SOURCE_FILE, "a+") as f:
+    with open(OUTPUT_CSV, "a+") as f:
         writer = csv.DictWriter(f, fieldnames=["page", "content"])
         if not header:
             writer.writeheader()
